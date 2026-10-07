@@ -9,6 +9,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 /*INÍCIO HEADER*/
 .nav {
     background-color: #181818;
