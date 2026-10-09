@@ -2,7 +2,7 @@
 
 > Projeto no estilo SPA (single page aplication) para apresentação do portfólio de um desenvolvedor.
 
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
+[![Status](https://img.shields.io/badge/status-concluído-green)]()
 [![Version](https://img.shields.io/badge/version-0.1.0-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
@@ -18,8 +18,8 @@ Estudar HTML e CSS aplicando técnicas de desenvolvimento e estruturação funci
 
 ### Funcionalidades
 
-- [ ] Header sempre visivel;
-- [ ] Navegação por links
+- [x] Header sempre visivel;
+- [x] Navegação por links
 
 ---
 
@@ -27,9 +27,9 @@ Estudar HTML e CSS aplicando técnicas de desenvolvimento e estruturação funci
 
 ```text
 fe_portfolio/
-├── src/
-├── public/
-├── tests/
+├── images/
+├── index.html
+├── styles.css
 ├── README.md
 └── ...
 ```
@@ -45,21 +45,12 @@ git clone https://github.com/pratesddev/fe_portifolio.git
 cd fe_portifolio
 ```
 
-### 2. Instalar dependências
-
-```bash
-<comando>
-```
-
 ---
 
 ## 🗺️ Roadmap
 
 - [x] Estrutura inicial
-- [ ] Funcionalidade X
-- [ ] Testes automatizados
-- [ ] CI/CD
-- [ ] Versão 1.0.0
+- [x] Versão 0.1.0
 
 ---
 
